@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tra:home|Door43 (tra)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tra|d43-tra repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tra/archive/master.zip|d43-tra.zip]]
+
+**Recent Changes**
+{{changes>ns = tra}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tra|Ethnologue data]]
+
